@@ -1,0 +1,23 @@
+{
+  "name": "api_node",
+  "version": "1.0.0",
+  "description": "Semplice API Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profgiusti/first_api_node.git"
+  },
+  "keywords": [
+    "api",
+    "node"
+  ],
+  "author": "Luca Giusti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profgiusti/first_api_node/issues"
+  },
+  "homepage": "https://github.com/profgiusti/first_api_node#readme"
+}
